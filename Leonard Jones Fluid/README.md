@@ -3,4 +3,7 @@ This is my project on the computational modeling of Leonard Jones fluid using th
 
 ![Alt Pressure Vs Density](https://github.com/apratimr7/simple_projects/blob/main/Leonard%20Jones%20Fluid/Pressure%20vs%20Density%20graph.png)
 
-![Alt Pressure Vs Density](https://github.com/apratimr7/simple_projects/blob/main/Leonard%20Jones%20Fluid/Correlation%20graph.png)
+![Alt Pressure Vs Density correlation](https://github.com/apratimr7/simple_projects/blob/main/Leonard%20Jones%20Fluid/Correlation%20graph.png)
+
+
+You can read the full report [here](https://github.com/apratimr7/simple_projects/blob/main/Leonard%20Jones%20Fluid/Leonard%20jones%20Report.pdf).
